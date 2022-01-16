@@ -1,0 +1,51 @@
+h2
+{
+    color: brown;
+    text-align: center;
+}
+
+h3
+{
+    color: darkkhaki;
+    text-align: center;
+}
+
+h4
+{
+    color: goldenrod;
+    text-align: center;
+}
+
+body
+{
+    background-color: black;
+    width:80%;
+	margin:auto;
+	font-size:30px;
+	line-height:1.5em;
+    word-spacing:12px
+}
+
+button
+{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    color: whitesmoke;
+    font-weight: bold;
+    width: 200px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#count-btn
+{
+    background: darkred
+}
+
+.vertical-center
+{
+    text-align: center
+}
+
+  
